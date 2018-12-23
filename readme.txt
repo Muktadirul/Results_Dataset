@@ -1,0 +1,1 @@
+Using 'w' for writing text in file
