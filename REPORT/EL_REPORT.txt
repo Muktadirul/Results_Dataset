@@ -1,1428 +1,714 @@
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				68		estimated_15genes_strongILS		11-texon	 	3
-0.25				68		estimated_15genes_strongILS		11-texon	 	10
+0.125				68		estimated_15genes_strongILS		11-texon	 	3			EL/estimated_15genes_strongILS_EL_Astral15_FNRATE_PHYLONET.xlsx
+0.25				68		estimated_15genes_strongILS		11-texon	 	10			EL/estimated_15genes_strongILS_EL_Astral15_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral_exact25	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				138		estimated_25genes_strongILS		11-texon	 	12
-0.125				138		estimated_25genes_strongILS		11-texon	 	20
+0.25				138		estimated_25genes_strongILS		11-texon	 	12			EL/estimated_25genes_strongILS_EL_Astral_exact25_FNRATE_ASTRAL.xlsx
+0.125				138		estimated_25genes_strongILS		11-texon	 	20			EL/estimated_25genes_strongILS_EL_Astral_exact25_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral_exact25	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				145		estimated_25genes_strongILS		11-texon	 	5
-0.25				145		estimated_25genes_strongILS		11-texon	 	10
+0.0				145		estimated_25genes_strongILS		11-texon	 	5			EL/estimated_25genes_strongILS_EL_Astral_exact25_FNRATE_ASTRAL.xlsx
+0.25				145		estimated_25genes_strongILS		11-texon	 	10			EL/estimated_25genes_strongILS_EL_Astral_exact25_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Phylonet15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				44		estimated_15genes_weakILS		11-texon	 	10
-0.125				44		estimated_15genes_weakILS		11-texon	 	13
+0.0				44		estimated_15genes_weakILS		11-texon	 	10			EL/estimated_15genes_weakILS_EL_Phylonet15_FNRATE_EXACT_ASTRAL.xlsx
+0.125				44		estimated_15genes_weakILS		11-texon	 	13			EL/estimated_15genes_weakILS_EL_Phylonet15_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Phylonet15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				44		estimated_15genes_weakILS		11-texon	 	10
-0.125				44		estimated_15genes_weakILS		11-texon	 	13
+0.0				44		estimated_15genes_weakILS		11-texon	 	10			EL/estimated_15genes_weakILS_EL_Phylonet15_FNRATE_PHYLONET.xlsx
+0.125				44		estimated_15genes_weakILS		11-texon	 	13			EL/estimated_15genes_weakILS_EL_Phylonet15_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Phylonet200	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				3089		noscale.200g.1000b		37-texon	 	4
-0.0294117647058824				3089		noscale.200g.1000b		37-texon	 	12
+0.0				3089		noscale.200g.1000b		37-texon	 	4			EL/noscale.200g.1000b_EL_Phylonet200_FNRATE_ASTRAL.xlsx
+0.02941176470588236				3089		noscale.200g.1000b		37-texon	 	12			EL/noscale.200g.1000b_EL_Phylonet200_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Phylonet200	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				2473		noscale.200g.true		37-texon	 	4
-0.0294117647058824				2473		noscale.200g.true		37-texon	 	14
+0.0				2473		noscale.200g.true		37-texon	 	4			EL/noscale.200g.true_EL_Phylonet200_FNRATE_ASTRAL.xlsx
+0.02941176470588236				2473		noscale.200g.true		37-texon	 	14			EL/noscale.200g.true_EL_Phylonet200_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral_exact5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				24		estimated_5genes_strongILS		11-texon	 	1
-0.0				24		estimated_5genes_strongILS		11-texon	 	17
+0.25				24		estimated_5genes_strongILS		11-texon	 	1			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_PHYLONET.xlsx
+0.0				24		estimated_5genes_strongILS		11-texon	 	17			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral_exact5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.5				29		estimated_5genes_strongILS		11-texon	 	13
-0.375				29		estimated_5genes_strongILS		11-texon	 	16
+0.5				29		estimated_5genes_strongILS		11-texon	 	13			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_PHYLONET.xlsx
+0.375				29		estimated_5genes_strongILS		11-texon	 	16			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral_exact5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.5				40		estimated_5genes_strongILS		11-texon	 	3
-0.375				40		estimated_5genes_strongILS		11-texon	 	5
+0.5				40		estimated_5genes_strongILS		11-texon	 	3			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_PHYLONET.xlsx
+0.375				40		estimated_5genes_strongILS		11-texon	 	5			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				58		estimated_15genes_weakILS		11-texon	 	2
-0.125				58		estimated_15genes_weakILS		11-texon	 	13
+0.0				58		estimated_15genes_weakILS		11-texon	 	2			EL/estimated_15genes_weakILS_EL_Astral15_FNRATE_ASTRAL.xlsx
+0.125				58		estimated_15genes_weakILS		11-texon	 	13			EL/estimated_15genes_weakILS_EL_Astral15_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral_exact15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				68		estimated_15genes_strongILS		11-texon	 	3
-0.25				68		estimated_15genes_strongILS		11-texon	 	10
+0.125				68		estimated_15genes_strongILS		11-texon	 	3			EL/estimated_15genes_strongILS_EL_Astral_exact15_FNRATE_PHYLONET.xlsx
+0.25				68		estimated_15genes_strongILS		11-texon	 	10			EL/estimated_15genes_strongILS_EL_Astral_exact15_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				16		estimated_5genes_strongILS		11-texon	 	18
-0.125				16		estimated_5genes_strongILS		11-texon	 	19
+0.25				16		estimated_5genes_strongILS		11-texon	 	18			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
+0.125				16		estimated_5genes_strongILS		11-texon	 	19			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				20		estimated_5genes_strongILS		11-texon	 	2
-0.375				20		estimated_5genes_strongILS		11-texon	 	5
+0.25				20		estimated_5genes_strongILS		11-texon	 	2			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
+0.375				20		estimated_5genes_strongILS		11-texon	 	5			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.375				21		estimated_5genes_strongILS		11-texon	 	12
-0.125				21		estimated_5genes_strongILS		11-texon	 	15
+0.375				21		estimated_5genes_strongILS		11-texon	 	12			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
+0.125				21		estimated_5genes_strongILS		11-texon	 	15			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.375				22		estimated_5genes_strongILS		11-texon	 	7
-0.125				22		estimated_5genes_strongILS		11-texon	 	9
-0.25				22		estimated_5genes_strongILS		11-texon	 	11
-0.0				22		estimated_5genes_strongILS		11-texon	 	17
+0.375				22		estimated_5genes_strongILS		11-texon	 	7			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
+0.125				22		estimated_5genes_strongILS		11-texon	 	9			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
+0.25				22		estimated_5genes_strongILS		11-texon	 	11			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
+0.0				22		estimated_5genes_strongILS		11-texon	 	17			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				23		estimated_5genes_strongILS		11-texon	 	4
-0.5				23		estimated_5genes_strongILS		11-texon	 	13
+0.125				23		estimated_5genes_strongILS		11-texon	 	4			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
+0.5				23		estimated_5genes_strongILS		11-texon	 	13			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Phylonet25	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				99		estimated_25genes_strongILS		11-texon	 	10
-0.125				99		estimated_25genes_strongILS		11-texon	 	13
+0.25				99		estimated_25genes_strongILS		11-texon	 	10			EL/estimated_25genes_strongILS_EL_Phylonet25_FNRATE_ASTRAL.xlsx
+0.125				99		estimated_25genes_strongILS		11-texon	 	13			EL/estimated_25genes_strongILS_EL_Phylonet25_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral25	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				138		estimated_25genes_strongILS		11-texon	 	12
-0.125				138		estimated_25genes_strongILS		11-texon	 	20
+0.25				138		estimated_25genes_strongILS		11-texon	 	12			EL/estimated_25genes_strongILS_EL_Astral25_FNRATE_ASTRAL.xlsx
+0.125				138		estimated_25genes_strongILS		11-texon	 	20			EL/estimated_25genes_strongILS_EL_Astral25_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral25	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				145		estimated_25genes_strongILS		11-texon	 	5
-0.25				145		estimated_25genes_strongILS		11-texon	 	10
+0.0				145		estimated_25genes_strongILS		11-texon	 	5			EL/estimated_25genes_strongILS_EL_Astral25_FNRATE_ASTRAL.xlsx
+0.25				145		estimated_25genes_strongILS		11-texon	 	10			EL/estimated_25genes_strongILS_EL_Astral25_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral_exact15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				58		estimated_15genes_weakILS		11-texon	 	2
-0.125				58		estimated_15genes_weakILS		11-texon	 	13
+0.0				58		estimated_15genes_weakILS		11-texon	 	2			EL/estimated_15genes_weakILS_EL_Astral_exact15_FNRATE_EXACT_ASTRAL.xlsx
+0.125				58		estimated_15genes_weakILS		11-texon	 	13			EL/estimated_15genes_weakILS_EL_Astral_exact15_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				16		estimated_5genes_strongILS		11-texon	 	18
-0.0				16		estimated_5genes_strongILS		11-texon	 	19
+0.125				16		estimated_5genes_strongILS		11-texon	 	18			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_EXACT_ASTRAL.xlsx
+0.0				16		estimated_5genes_strongILS		11-texon	 	19			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.5				20		estimated_5genes_strongILS		11-texon	 	2
-0.25				20		estimated_5genes_strongILS		11-texon	 	5
+0.5				20		estimated_5genes_strongILS		11-texon	 	2			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_EXACT_ASTRAL.xlsx
+0.25				20		estimated_5genes_strongILS		11-texon	 	5			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.375				21		estimated_5genes_strongILS		11-texon	 	12
-0.25				21		estimated_5genes_strongILS		11-texon	 	15
+0.375				21		estimated_5genes_strongILS		11-texon	 	12			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_EXACT_ASTRAL.xlsx
+0.25				21		estimated_5genes_strongILS		11-texon	 	15			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				23		estimated_5genes_strongILS		11-texon	 	4
-0.375				23		estimated_5genes_strongILS		11-texon	 	13
+0.125				23		estimated_5genes_strongILS		11-texon	 	4			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_EXACT_ASTRAL.xlsx
+0.375				23		estimated_5genes_strongILS		11-texon	 	13			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				8		simulated_5genes_strongILS		11-texon	 	7
-0.0				8		simulated_5genes_strongILS		11-texon	 	20
+0.125				8		simulated_5genes_strongILS		11-texon	 	7			EL/simulated_5genes_strongILS_EL_Astral5_FNRATE_EXACT_ASTRAL.xlsx
+0.0				8		simulated_5genes_strongILS		11-texon	 	20			EL/simulated_5genes_strongILS_EL_Astral5_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Phylonet15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				60		estimated_15genes_strongILS		11-texon	 	4
-0.125				60		estimated_15genes_strongILS		11-texon	 	14
-0.5				60		estimated_15genes_strongILS		11-texon	 	20
+0.25				60		estimated_15genes_strongILS		11-texon	 	4			EL/estimated_15genes_strongILS_EL_Phylonet15_FNRATE_PHYLONET.xlsx
+0.125				60		estimated_15genes_strongILS		11-texon	 	14			EL/estimated_15genes_strongILS_EL_Phylonet15_FNRATE_PHYLONET.xlsx
+0.5				60		estimated_15genes_strongILS		11-texon	 	20			EL/estimated_15genes_strongILS_EL_Phylonet15_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Phylonet15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				67		estimated_15genes_strongILS		11-texon	 	11
-0.25				67		estimated_15genes_strongILS		11-texon	 	17
+0.125				67		estimated_15genes_strongILS		11-texon	 	11			EL/estimated_15genes_strongILS_EL_Phylonet15_FNRATE_PHYLONET.xlsx
+0.25				67		estimated_15genes_strongILS		11-texon	 	17			EL/estimated_15genes_strongILS_EL_Phylonet15_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				24		estimated_5genes_strongILS		11-texon	 	1
-0.0				24		estimated_5genes_strongILS		11-texon	 	17
+0.25				24		estimated_5genes_strongILS		11-texon	 	1			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_EXACT_ASTRAL.xlsx
+0.0				24		estimated_5genes_strongILS		11-texon	 	17			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.5				25		estimated_5genes_strongILS		11-texon	 	2
-0.375				25		estimated_5genes_strongILS		11-texon	 	11
+0.5				25		estimated_5genes_strongILS		11-texon	 	2			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_EXACT_ASTRAL.xlsx
+0.375				25		estimated_5genes_strongILS		11-texon	 	11			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.625				40		estimated_5genes_strongILS		11-texon	 	3
-0.25				40		estimated_5genes_strongILS		11-texon	 	5
+0.625				40		estimated_5genes_strongILS		11-texon	 	3			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_EXACT_ASTRAL.xlsx
+0.25				40		estimated_5genes_strongILS		11-texon	 	5			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral_exact15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				68		estimated_15genes_strongILS		11-texon	 	3
-0.25				68		estimated_15genes_strongILS		11-texon	 	10
+0.0				68		estimated_15genes_strongILS		11-texon	 	3			EL/estimated_15genes_strongILS_EL_Astral_exact15_FNRATE_ASTRAL.xlsx
+0.25				68		estimated_15genes_strongILS		11-texon	 	10			EL/estimated_15genes_strongILS_EL_Astral_exact15_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Phylonet25	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.147058823529412				469		noscale.25g.500b		37-texon	 	5
-0.117647058823529				469		noscale.25g.500b		37-texon	 	14
+0.1470588235294117				469		noscale.25g.500b		37-texon	 	5			EL/noscale.25g.500b_EL_Phylonet25_FNRATE_ASTRAL.xlsx
+0.1176470588235294				469		noscale.25g.500b		37-texon	 	14			EL/noscale.25g.500b_EL_Phylonet25_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				13		estimated_5genes_weakILS		11-texon	 	12
-0.0				13		estimated_5genes_weakILS		11-texon	 	19
+0.125				13		estimated_5genes_weakILS		11-texon	 	12			EL/estimated_5genes_weakILS_EL_Astral5_FNRATE_PHYLONET.xlsx
+0.0				13		estimated_5genes_weakILS		11-texon	 	19			EL/estimated_5genes_weakILS_EL_Astral5_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral_exact25	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				145		estimated_25genes_strongILS		11-texon	 	5
-0.25				145		estimated_25genes_strongILS		11-texon	 	10
+0.0				145		estimated_25genes_strongILS		11-texon	 	5			EL/estimated_25genes_strongILS_EL_Astral_exact25_FNRATE_PHYLONET.xlsx
+0.25				145		estimated_25genes_strongILS		11-texon	 	10			EL/estimated_25genes_strongILS_EL_Astral_exact25_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral_exact5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				8		simulated_5genes_strongILS		11-texon	 	7
-0.0				8		simulated_5genes_strongILS		11-texon	 	20
+0.125				8		simulated_5genes_strongILS		11-texon	 	7			EL/simulated_5genes_strongILS_EL_Astral_exact5_FNRATE_EXACT_ASTRAL.xlsx
+0.0				8		simulated_5genes_strongILS		11-texon	 	20			EL/simulated_5genes_strongILS_EL_Astral_exact5_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Phylonet15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				58		estimated_15genes_strongILS		11-texon	 	8
-0.0				58		estimated_15genes_strongILS		11-texon	 	16
+0.125				58		estimated_15genes_strongILS		11-texon	 	8			EL/estimated_15genes_strongILS_EL_Phylonet15_FNRATE_EXACT_ASTRAL.xlsx
+0.0				58		estimated_15genes_strongILS		11-texon	 	16			EL/estimated_15genes_strongILS_EL_Phylonet15_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Phylonet15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				60		estimated_15genes_strongILS		11-texon	 	4
-0.125				60		estimated_15genes_strongILS		11-texon	 	14
-0.375				60		estimated_15genes_strongILS		11-texon	 	20
+0.0				60		estimated_15genes_strongILS		11-texon	 	4			EL/estimated_15genes_strongILS_EL_Phylonet15_FNRATE_EXACT_ASTRAL.xlsx
+0.125				60		estimated_15genes_strongILS		11-texon	 	14			EL/estimated_15genes_strongILS_EL_Phylonet15_FNRATE_EXACT_ASTRAL.xlsx
+0.375				60		estimated_15genes_strongILS		11-texon	 	20			EL/estimated_15genes_strongILS_EL_Phylonet15_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				24		estimated_5genes_strongILS		11-texon	 	1
-0.0				24		estimated_5genes_strongILS		11-texon	 	17
+0.25				24		estimated_5genes_strongILS		11-texon	 	1			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_PHYLONET.xlsx
+0.0				24		estimated_5genes_strongILS		11-texon	 	17			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.5				29		estimated_5genes_strongILS		11-texon	 	13
-0.375				29		estimated_5genes_strongILS		11-texon	 	16
+0.5				29		estimated_5genes_strongILS		11-texon	 	13			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_PHYLONET.xlsx
+0.375				29		estimated_5genes_strongILS		11-texon	 	16			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.5				40		estimated_5genes_strongILS		11-texon	 	3
-0.375				40		estimated_5genes_strongILS		11-texon	 	5
+0.5				40		estimated_5genes_strongILS		11-texon	 	3			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_PHYLONET.xlsx
+0.375				40		estimated_5genes_strongILS		11-texon	 	5			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				9		estimated_5genes_weakILS		11-texon	 	5
-0.0				9		estimated_5genes_weakILS		11-texon	 	9
-0.25				9		estimated_5genes_weakILS		11-texon	 	12
+0.125				9		estimated_5genes_weakILS		11-texon	 	5			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_ASTRAL.xlsx
+0.0				9		estimated_5genes_weakILS		11-texon	 	9			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_ASTRAL.xlsx
+0.25				9		estimated_5genes_weakILS		11-texon	 	12			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				16		estimated_5genes_weakILS		11-texon	 	1
-0.0				16		estimated_5genes_weakILS		11-texon	 	8
-0.375				16		estimated_5genes_weakILS		11-texon	 	20
+0.125				16		estimated_5genes_weakILS		11-texon	 	1			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_ASTRAL.xlsx
+0.0				16		estimated_5genes_weakILS		11-texon	 	8			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_ASTRAL.xlsx
+0.375				16		estimated_5genes_weakILS		11-texon	 	20			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Phylonet15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				44		estimated_15genes_weakILS		11-texon	 	10
-0.125				44		estimated_15genes_weakILS		11-texon	 	13
+0.0				44		estimated_15genes_weakILS		11-texon	 	10			EL/estimated_15genes_weakILS_EL_Phylonet15_FNRATE_ASTRAL.xlsx
+0.125				44		estimated_15genes_weakILS		11-texon	 	13			EL/estimated_15genes_weakILS_EL_Phylonet15_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Phylonet25	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				99		estimated_25genes_strongILS		11-texon	 	10
-0.125				99		estimated_25genes_strongILS		11-texon	 	13
+0.25				99		estimated_25genes_strongILS		11-texon	 	10			EL/estimated_25genes_strongILS_EL_Phylonet25_FNRATE_EXACT_ASTRAL.xlsx
+0.125				99		estimated_25genes_strongILS		11-texon	 	13			EL/estimated_25genes_strongILS_EL_Phylonet25_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				9		estimated_5genes_weakILS		11-texon	 	5
-0.0				9		estimated_5genes_weakILS		11-texon	 	9
-0.25				9		estimated_5genes_weakILS		11-texon	 	12
+0.125				9		estimated_5genes_weakILS		11-texon	 	5			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_EXACT_ASTRAL.xlsx
+0.0				9		estimated_5genes_weakILS		11-texon	 	9			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_EXACT_ASTRAL.xlsx
+0.25				9		estimated_5genes_weakILS		11-texon	 	12			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				16		estimated_5genes_weakILS		11-texon	 	1
-0.0				16		estimated_5genes_weakILS		11-texon	 	8
-0.375				16		estimated_5genes_weakILS		11-texon	 	20
+0.125				16		estimated_5genes_weakILS		11-texon	 	1			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_EXACT_ASTRAL.xlsx
+0.0				16		estimated_5genes_weakILS		11-texon	 	8			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_EXACT_ASTRAL.xlsx
+0.375				16		estimated_5genes_weakILS		11-texon	 	20			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral_exact5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				24		estimated_5genes_strongILS		11-texon	 	1
-0.0				24		estimated_5genes_strongILS		11-texon	 	17
+0.25				24		estimated_5genes_strongILS		11-texon	 	1			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_EXACT_ASTRAL.xlsx
+0.0				24		estimated_5genes_strongILS		11-texon	 	17			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral_exact5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.5				25		estimated_5genes_strongILS		11-texon	 	2
-0.375				25		estimated_5genes_strongILS		11-texon	 	11
+0.5				25		estimated_5genes_strongILS		11-texon	 	2			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_EXACT_ASTRAL.xlsx
+0.375				25		estimated_5genes_strongILS		11-texon	 	11			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral_exact5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.625				40		estimated_5genes_strongILS		11-texon	 	3
-0.25				40		estimated_5genes_strongILS		11-texon	 	5
+0.625				40		estimated_5genes_strongILS		11-texon	 	3			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_EXACT_ASTRAL.xlsx
+0.25				40		estimated_5genes_strongILS		11-texon	 	5			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral_exact15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				68		estimated_15genes_strongILS		11-texon	 	3
-0.25				68		estimated_15genes_strongILS		11-texon	 	10
+0.0				68		estimated_15genes_strongILS		11-texon	 	3			EL/estimated_15genes_strongILS_EL_Astral_exact15_FNRATE_EXACT_ASTRAL.xlsx
+0.25				68		estimated_15genes_strongILS		11-texon	 	10			EL/estimated_15genes_strongILS_EL_Astral_exact15_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				68		estimated_15genes_strongILS		11-texon	 	3
-0.25				68		estimated_15genes_strongILS		11-texon	 	10
+0.0				68		estimated_15genes_strongILS		11-texon	 	3			EL/estimated_15genes_strongILS_EL_Astral15_FNRATE_EXACT_ASTRAL.xlsx
+0.25				68		estimated_15genes_strongILS		11-texon	 	10			EL/estimated_15genes_strongILS_EL_Astral15_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				13		estimated_5genes_weakILS		11-texon	 	12
-0.0				13		estimated_5genes_weakILS		11-texon	 	19
+0.25				13		estimated_5genes_weakILS		11-texon	 	12			EL/estimated_5genes_weakILS_EL_Astral5_FNRATE_EXACT_ASTRAL.xlsx
+0.0				13		estimated_5genes_weakILS		11-texon	 	19			EL/estimated_5genes_weakILS_EL_Astral5_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				13		estimated_5genes_weakILS		11-texon	 	12
-0.0				13		estimated_5genes_weakILS		11-texon	 	19
+0.25				13		estimated_5genes_weakILS		11-texon	 	12			EL/estimated_5genes_weakILS_EL_Astral5_FNRATE_ASTRAL.xlsx
+0.0				13		estimated_5genes_weakILS		11-texon	 	19			EL/estimated_5genes_weakILS_EL_Astral5_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				8		simulated_5genes_strongILS		11-texon	 	7
-0.0				8		simulated_5genes_strongILS		11-texon	 	20
+0.125				8		simulated_5genes_strongILS		11-texon	 	7			EL/simulated_5genes_strongILS_EL_Phylonet5_FNRATE_ASTRAL.xlsx
+0.0				8		simulated_5genes_strongILS		11-texon	 	20			EL/simulated_5genes_strongILS_EL_Phylonet5_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Phylonet25	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.176470588235294				469		noscale.25g.500b		37-texon	 	5
-0.117647058823529				469		noscale.25g.500b		37-texon	 	14
+0.1764705882352941				469		noscale.25g.500b		37-texon	 	5			EL/noscale.25g.500b_EL_Phylonet25_FNRATE_PHYLONET.xlsx
+0.1176470588235294				469		noscale.25g.500b		37-texon	 	14			EL/noscale.25g.500b_EL_Phylonet25_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral_exact5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				13		estimated_5genes_weakILS		11-texon	 	12
-0.0				13		estimated_5genes_weakILS		11-texon	 	19
+0.125				13		estimated_5genes_weakILS		11-texon	 	12			EL/estimated_5genes_weakILS_EL_Astral_exact5_FNRATE_PHYLONET.xlsx
+0.0				13		estimated_5genes_weakILS		11-texon	 	19			EL/estimated_5genes_weakILS_EL_Astral_exact5_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				16		estimated_5genes_strongILS		11-texon	 	18
-0.0				16		estimated_5genes_strongILS		11-texon	 	19
+0.125				16		estimated_5genes_strongILS		11-texon	 	18			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_ASTRAL.xlsx
+0.0				16		estimated_5genes_strongILS		11-texon	 	19			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.5				20		estimated_5genes_strongILS		11-texon	 	2
-0.25				20		estimated_5genes_strongILS		11-texon	 	5
+0.5				20		estimated_5genes_strongILS		11-texon	 	2			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_ASTRAL.xlsx
+0.25				20		estimated_5genes_strongILS		11-texon	 	5			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.375				21		estimated_5genes_strongILS		11-texon	 	12
-0.25				21		estimated_5genes_strongILS		11-texon	 	15
+0.375				21		estimated_5genes_strongILS		11-texon	 	12			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_ASTRAL.xlsx
+0.25				21		estimated_5genes_strongILS		11-texon	 	15			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				23		estimated_5genes_strongILS		11-texon	 	4
-0.375				23		estimated_5genes_strongILS		11-texon	 	13
+0.125				23		estimated_5genes_strongILS		11-texon	 	4			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_ASTRAL.xlsx
+0.375				23		estimated_5genes_strongILS		11-texon	 	13			EL/estimated_5genes_strongILS_EL_Phylonet5_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral200	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.117647058823529				3282		scale2u.200g.500b		37-texon	 	9
-0.147058823529412				3282		scale2u.200g.500b		37-texon	 	13
+0.1176470588235294				3282		scale2u.200g.500b		37-texon	 	9			EL/scale2u.200g.500b_EL_Astral200_FNRATE_PHYLONET.xlsx
+0.1470588235294117				3282		scale2u.200g.500b		37-texon	 	13			EL/scale2u.200g.500b_EL_Astral200_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Phylonet15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				18		simulated_15genes_strongILS		11-texon	 	12
-0.25				18		simulated_15genes_strongILS		11-texon	 	16
-0.125				18		simulated_15genes_strongILS		11-texon	 	17
+0.0				18		simulated_15genes_strongILS		11-texon	 	12			EL/simulated_15genes_strongILS_EL_Phylonet15_FNRATE_EXACT_ASTRAL.xlsx
+0.25				18		simulated_15genes_strongILS		11-texon	 	16			EL/simulated_15genes_strongILS_EL_Phylonet15_FNRATE_EXACT_ASTRAL.xlsx
+0.125				18		simulated_15genes_strongILS		11-texon	 	17			EL/simulated_15genes_strongILS_EL_Phylonet15_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Phylonet15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				18		simulated_15genes_strongILS		11-texon	 	12
-0.25				18		simulated_15genes_strongILS		11-texon	 	16
-0.125				18		simulated_15genes_strongILS		11-texon	 	17
+0.0				18		simulated_15genes_strongILS		11-texon	 	12			EL/simulated_15genes_strongILS_EL_Phylonet15_FNRATE_PHYLONET.xlsx
+0.25				18		simulated_15genes_strongILS		11-texon	 	16			EL/simulated_15genes_strongILS_EL_Phylonet15_FNRATE_PHYLONET.xlsx
+0.125				18		simulated_15genes_strongILS		11-texon	 	17			EL/simulated_15genes_strongILS_EL_Phylonet15_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral200	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0294117647058824				2854		noscale.200g.1500b		37-texon	 	5
-0.0				2854		noscale.200g.1500b		37-texon	 	19
+0.02941176470588236				2854		noscale.200g.1500b		37-texon	 	5			EL/noscale.200g.1500b_EL_Astral200_FNRATE_ASTRAL.xlsx
+0.0				2854		noscale.200g.1500b		37-texon	 	19			EL/noscale.200g.1500b_EL_Astral200_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Phylonet15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				18		simulated_15genes_strongILS		11-texon	 	12
-0.25				18		simulated_15genes_strongILS		11-texon	 	16
-0.125				18		simulated_15genes_strongILS		11-texon	 	17
+0.0				18		simulated_15genes_strongILS		11-texon	 	12			EL/simulated_15genes_strongILS_EL_Phylonet15_FNRATE_ASTRAL.xlsx
+0.25				18		simulated_15genes_strongILS		11-texon	 	16			EL/simulated_15genes_strongILS_EL_Phylonet15_FNRATE_ASTRAL.xlsx
+0.125				18		simulated_15genes_strongILS		11-texon	 	17			EL/simulated_15genes_strongILS_EL_Phylonet15_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral_exact15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				58		estimated_15genes_weakILS		11-texon	 	2
-0.125				58		estimated_15genes_weakILS		11-texon	 	13
+0.0				58		estimated_15genes_weakILS		11-texon	 	2			EL/estimated_15genes_weakILS_EL_Astral_exact15_FNRATE_PHYLONET.xlsx
+0.125				58		estimated_15genes_weakILS		11-texon	 	13			EL/estimated_15genes_weakILS_EL_Astral_exact15_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				58		estimated_15genes_weakILS		11-texon	 	2
-0.125				58		estimated_15genes_weakILS		11-texon	 	13
+0.0				58		estimated_15genes_weakILS		11-texon	 	2			EL/estimated_15genes_weakILS_EL_Astral15_FNRATE_PHYLONET.xlsx
+0.125				58		estimated_15genes_weakILS		11-texon	 	13			EL/estimated_15genes_weakILS_EL_Astral15_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				24		estimated_5genes_strongILS		11-texon	 	1
-0.0				24		estimated_5genes_strongILS		11-texon	 	17
+0.25				24		estimated_5genes_strongILS		11-texon	 	1			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_ASTRAL.xlsx
+0.0				24		estimated_5genes_strongILS		11-texon	 	17			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.5				25		estimated_5genes_strongILS		11-texon	 	2
-0.375				25		estimated_5genes_strongILS		11-texon	 	11
+0.5				25		estimated_5genes_strongILS		11-texon	 	2			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_ASTRAL.xlsx
+0.375				25		estimated_5genes_strongILS		11-texon	 	11			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.625				40		estimated_5genes_strongILS		11-texon	 	3
-0.25				40		estimated_5genes_strongILS		11-texon	 	5
+0.625				40		estimated_5genes_strongILS		11-texon	 	3			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_ASTRAL.xlsx
+0.25				40		estimated_5genes_strongILS		11-texon	 	5			EL/estimated_5genes_strongILS_EL_Astral5_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral_exact15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				58		estimated_15genes_weakILS		11-texon	 	2
-0.125				58		estimated_15genes_weakILS		11-texon	 	13
+0.0				58		estimated_15genes_weakILS		11-texon	 	2			EL/estimated_15genes_weakILS_EL_Astral_exact15_FNRATE_ASTRAL.xlsx
+0.125				58		estimated_15genes_weakILS		11-texon	 	13			EL/estimated_15genes_weakILS_EL_Astral_exact15_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral_exact25	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				138		estimated_25genes_strongILS		11-texon	 	12
-0.125				138		estimated_25genes_strongILS		11-texon	 	20
+0.25				138		estimated_25genes_strongILS		11-texon	 	12			EL/estimated_25genes_strongILS_EL_Astral_exact25_FNRATE_EXACT_ASTRAL.xlsx
+0.125				138		estimated_25genes_strongILS		11-texon	 	20			EL/estimated_25genes_strongILS_EL_Astral_exact25_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral_exact25	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				145		estimated_25genes_strongILS		11-texon	 	5
-0.25				145		estimated_25genes_strongILS		11-texon	 	10
+0.0				145		estimated_25genes_strongILS		11-texon	 	5			EL/estimated_25genes_strongILS_EL_Astral_exact25_FNRATE_EXACT_ASTRAL.xlsx
+0.25				145		estimated_25genes_strongILS		11-texon	 	10			EL/estimated_25genes_strongILS_EL_Astral_exact25_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral_exact5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				24		estimated_5genes_strongILS		11-texon	 	1
-0.0				24		estimated_5genes_strongILS		11-texon	 	17
+0.25				24		estimated_5genes_strongILS		11-texon	 	1			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_ASTRAL.xlsx
+0.0				24		estimated_5genes_strongILS		11-texon	 	17			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral_exact5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.5				25		estimated_5genes_strongILS		11-texon	 	2
-0.375				25		estimated_5genes_strongILS		11-texon	 	11
+0.5				25		estimated_5genes_strongILS		11-texon	 	2			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_ASTRAL.xlsx
+0.375				25		estimated_5genes_strongILS		11-texon	 	11			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral_exact5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.625				40		estimated_5genes_strongILS		11-texon	 	3
-0.25				40		estimated_5genes_strongILS		11-texon	 	5
+0.625				40		estimated_5genes_strongILS		11-texon	 	3			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_ASTRAL.xlsx
+0.25				40		estimated_5genes_strongILS		11-texon	 	5			EL/estimated_5genes_strongILS_EL_Astral_exact5_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Phylonet50	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				217		estimated_50genes_strongILS		11-texon	 	18
-0.0				217		estimated_50genes_strongILS		11-texon	 	20
+0.125				217		estimated_50genes_strongILS		11-texon	 	18			EL/estimated_50genes_strongILS_EL_Phylonet50_FNRATE_ASTRAL.xlsx
+0.0				217		estimated_50genes_strongILS		11-texon	 	20			EL/estimated_50genes_strongILS_EL_Phylonet50_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Phylonet50	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				220		estimated_50genes_strongILS		11-texon	 	4
-0.0				220		estimated_50genes_strongILS		11-texon	 	10
+0.125				220		estimated_50genes_strongILS		11-texon	 	4			EL/estimated_50genes_strongILS_EL_Phylonet50_FNRATE_ASTRAL.xlsx
+0.0				220		estimated_50genes_strongILS		11-texon	 	10			EL/estimated_50genes_strongILS_EL_Phylonet50_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral200	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0294117647058824				3137		noscale.200g.1000b		37-texon	 	9
-0.0588235294117647				3137		noscale.200g.1000b		37-texon	 	13
+0.02941176470588236				3137		noscale.200g.1000b		37-texon	 	9			EL/noscale.200g.1000b_EL_Astral200_FNRATE_ASTRAL.xlsx
+0.05882352941176471				3137		noscale.200g.1000b		37-texon	 	13			EL/noscale.200g.1000b_EL_Astral200_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral_exact5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				13		estimated_5genes_weakILS		11-texon	 	12
-0.0				13		estimated_5genes_weakILS		11-texon	 	19
+0.25				13		estimated_5genes_weakILS		11-texon	 	12			EL/estimated_5genes_weakILS_EL_Astral_exact5_FNRATE_ASTRAL.xlsx
+0.0				13		estimated_5genes_weakILS		11-texon	 	19			EL/estimated_5genes_weakILS_EL_Astral_exact5_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				8		simulated_5genes_strongILS		11-texon	 	7
-0.0				8		simulated_5genes_strongILS		11-texon	 	20
+0.125				8		simulated_5genes_strongILS		11-texon	 	7			EL/simulated_5genes_strongILS_EL_Phylonet5_FNRATE_EXACT_ASTRAL.xlsx
+0.0				8		simulated_5genes_strongILS		11-texon	 	20			EL/simulated_5genes_strongILS_EL_Phylonet5_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral_exact5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				8		simulated_5genes_strongILS		11-texon	 	7
-0.0				8		simulated_5genes_strongILS		11-texon	 	20
+0.125				8		simulated_5genes_strongILS		11-texon	 	7			EL/simulated_5genes_strongILS_EL_Astral_exact5_FNRATE_ASTRAL.xlsx
+0.0				8		simulated_5genes_strongILS		11-texon	 	20			EL/simulated_5genes_strongILS_EL_Astral_exact5_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral_exact5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				13		estimated_5genes_weakILS		11-texon	 	12
-0.0				13		estimated_5genes_weakILS		11-texon	 	19
+0.25				13		estimated_5genes_weakILS		11-texon	 	12			EL/estimated_5genes_weakILS_EL_Astral_exact5_FNRATE_EXACT_ASTRAL.xlsx
+0.0				13		estimated_5genes_weakILS		11-texon	 	19			EL/estimated_5genes_weakILS_EL_Astral_exact5_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral25	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				145		estimated_25genes_strongILS		11-texon	 	5
-0.25				145		estimated_25genes_strongILS		11-texon	 	10
+0.0				145		estimated_25genes_strongILS		11-texon	 	5			EL/estimated_25genes_strongILS_EL_Astral25_FNRATE_PHYLONET.xlsx
+0.25				145		estimated_25genes_strongILS		11-texon	 	10			EL/estimated_25genes_strongILS_EL_Astral25_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Phylonet15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				58		estimated_15genes_strongILS		11-texon	 	8
-0.0				58		estimated_15genes_strongILS		11-texon	 	16
+0.125				58		estimated_15genes_strongILS		11-texon	 	8			EL/estimated_15genes_strongILS_EL_Phylonet15_FNRATE_ASTRAL.xlsx
+0.0				58		estimated_15genes_strongILS		11-texon	 	16			EL/estimated_15genes_strongILS_EL_Phylonet15_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Phylonet15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				60		estimated_15genes_strongILS		11-texon	 	4
-0.125				60		estimated_15genes_strongILS		11-texon	 	14
-0.375				60		estimated_15genes_strongILS		11-texon	 	20
+0.0				60		estimated_15genes_strongILS		11-texon	 	4			EL/estimated_15genes_strongILS_EL_Phylonet15_FNRATE_ASTRAL.xlsx
+0.125				60		estimated_15genes_strongILS		11-texon	 	14			EL/estimated_15genes_strongILS_EL_Phylonet15_FNRATE_ASTRAL.xlsx
+0.375				60		estimated_15genes_strongILS		11-texon	 	20			EL/estimated_15genes_strongILS_EL_Phylonet15_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral25	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				138		estimated_25genes_strongILS		11-texon	 	12
-0.125				138		estimated_25genes_strongILS		11-texon	 	20
+0.25				138		estimated_25genes_strongILS		11-texon	 	12			EL/estimated_25genes_strongILS_EL_Astral25_FNRATE_EXACT_ASTRAL.xlsx
+0.125				138		estimated_25genes_strongILS		11-texon	 	20			EL/estimated_25genes_strongILS_EL_Astral25_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral25	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				145		estimated_25genes_strongILS		11-texon	 	5
-0.25				145		estimated_25genes_strongILS		11-texon	 	10
+0.0				145		estimated_25genes_strongILS		11-texon	 	5			EL/estimated_25genes_strongILS_EL_Astral25_FNRATE_EXACT_ASTRAL.xlsx
+0.25				145		estimated_25genes_strongILS		11-texon	 	10			EL/estimated_25genes_strongILS_EL_Astral25_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				9		estimated_5genes_weakILS		11-texon	 	5
-0.0				9		estimated_5genes_weakILS		11-texon	 	9
-0.125				9		estimated_5genes_weakILS		11-texon	 	12
+0.25				9		estimated_5genes_weakILS		11-texon	 	5			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
+0.0				9		estimated_5genes_weakILS		11-texon	 	9			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
+0.125				9		estimated_5genes_weakILS		11-texon	 	12			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Phylonet5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.25				16		estimated_5genes_weakILS		11-texon	 	1
-0.0				16		estimated_5genes_weakILS		11-texon	 	8
-0.375				16		estimated_5genes_weakILS		11-texon	 	20
+0.25				16		estimated_5genes_weakILS		11-texon	 	1			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
+0.0				16		estimated_5genes_weakILS		11-texon	 	8			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
+0.375				16		estimated_5genes_weakILS		11-texon	 	20			EL/estimated_5genes_weakILS_EL_Phylonet5_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Phylonet200	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.117647058823529				3089		noscale.200g.1000b		37-texon	 	4
-0.147058823529412				3089		noscale.200g.1000b		37-texon	 	12
+0.1176470588235294				3089		noscale.200g.1000b		37-texon	 	4			EL/noscale.200g.1000b_EL_Phylonet200_FNRATE_PHYLONET.xlsx
+0.1470588235294117				3089		noscale.200g.1000b		37-texon	 	12			EL/noscale.200g.1000b_EL_Phylonet200_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral5	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				8		simulated_5genes_strongILS		11-texon	 	7
-0.0				8		simulated_5genes_strongILS		11-texon	 	20
+0.125				8		simulated_5genes_strongILS		11-texon	 	7			EL/simulated_5genes_strongILS_EL_Astral5_FNRATE_ASTRAL.xlsx
+0.0				8		simulated_5genes_strongILS		11-texon	 	20			EL/simulated_5genes_strongILS_EL_Astral5_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral200	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0882352941176471				3137		noscale.200g.1000b		37-texon	 	9
-0.147058823529412				3137		noscale.200g.1000b		37-texon	 	13
+0.08823529411764706				3137		noscale.200g.1000b		37-texon	 	9			EL/noscale.200g.1000b_EL_Astral200_FNRATE_PHYLONET.xlsx
+0.1470588235294117				3137		noscale.200g.1000b		37-texon	 	13			EL/noscale.200g.1000b_EL_Astral200_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_ASTRAL	 EL_Astral15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				68		estimated_15genes_strongILS		11-texon	 	3
-0.25				68		estimated_15genes_strongILS		11-texon	 	10
+0.0				68		estimated_15genes_strongILS		11-texon	 	3			EL/estimated_15genes_strongILS_EL_Astral15_FNRATE_ASTRAL.xlsx
+0.25				68		estimated_15genes_strongILS		11-texon	 	10			EL/estimated_15genes_strongILS_EL_Astral15_FNRATE_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral200	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0588235294117647				2854		noscale.200g.1500b		37-texon	 	5
-0.0882352941176471				2854		noscale.200g.1500b		37-texon	 	19
+0.05882352941176471				2854		noscale.200g.1500b		37-texon	 	5			EL/noscale.200g.1500b_EL_Astral200_FNRATE_PHYLONET.xlsx
+0.08823529411764706				2854		noscale.200g.1500b		37-texon	 	19			EL/noscale.200g.1500b_EL_Astral200_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_PHYLONET	 EL_Astral200	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0588235294117647				2929		noscale.200g.1500b		37-texon	 	12
-0.117647058823529				2929		noscale.200g.1500b		37-texon	 	15
+0.05882352941176471				2929		noscale.200g.1500b		37-texon	 	12			EL/noscale.200g.1500b_EL_Astral200_FNRATE_PHYLONET.xlsx
+0.1176470588235294				2929		noscale.200g.1500b		37-texon	 	15			EL/noscale.200g.1500b_EL_Astral200_FNRATE_PHYLONET.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Phylonet50	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				217		estimated_50genes_strongILS		11-texon	 	18
-0.0				217		estimated_50genes_strongILS		11-texon	 	20
+0.125				217		estimated_50genes_strongILS		11-texon	 	18			EL/estimated_50genes_strongILS_EL_Phylonet50_FNRATE_EXACT_ASTRAL.xlsx
+0.0				217		estimated_50genes_strongILS		11-texon	 	20			EL/estimated_50genes_strongILS_EL_Phylonet50_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Phylonet50	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.125				220		estimated_50genes_strongILS		11-texon	 	4
-0.0				220		estimated_50genes_strongILS		11-texon	 	10
+0.125				220		estimated_50genes_strongILS		11-texon	 	4			EL/estimated_50genes_strongILS_EL_Phylonet50_FNRATE_EXACT_ASTRAL.xlsx
+0.0				220		estimated_50genes_strongILS		11-texon	 	10			EL/estimated_50genes_strongILS_EL_Phylonet50_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
 ===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
+FNRATE_EXACT_ASTRAL	 EL_Astral15	 MODEL_CONDITION 			 Texon	 GENE No 				FILE TYPE
 ===============================================================================
-0.0				58		estimated_15genes_weakILS		11-texon	 	2
-0.125				58		estimated_15genes_weakILS		11-texon	 	13
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				68		estimated_15genes_strongILS		11-texon	 	3
-0.25				68		estimated_15genes_strongILS		11-texon	 	10
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				138		estimated_25genes_strongILS		11-texon	 	12
-0.125				138		estimated_25genes_strongILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				145		estimated_25genes_strongILS		11-texon	 	5
-0.25				145		estimated_25genes_strongILS		11-texon	 	10
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				44		estimated_15genes_weakILS		11-texon	 	10
-0.125				44		estimated_15genes_weakILS		11-texon	 	13
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				44		estimated_15genes_weakILS		11-texon	 	10
-0.125				44		estimated_15genes_weakILS		11-texon	 	13
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				3089		noscale.200g.1000b		37-texon	 	4
-0.0294117647058824				3089		noscale.200g.1000b		37-texon	 	12
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				2473		noscale.200g.true		37-texon	 	4
-0.0294117647058824				2473		noscale.200g.true		37-texon	 	14
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				24		estimated_5genes_strongILS		11-texon	 	1
-0.0				24		estimated_5genes_strongILS		11-texon	 	17
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.5				29		estimated_5genes_strongILS		11-texon	 	13
-0.375				29		estimated_5genes_strongILS		11-texon	 	16
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.5				40		estimated_5genes_strongILS		11-texon	 	3
-0.375				40		estimated_5genes_strongILS		11-texon	 	5
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				58		estimated_15genes_weakILS		11-texon	 	2
-0.125				58		estimated_15genes_weakILS		11-texon	 	13
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				68		estimated_15genes_strongILS		11-texon	 	3
-0.25				68		estimated_15genes_strongILS		11-texon	 	10
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				16		estimated_5genes_strongILS		11-texon	 	18
-0.125				16		estimated_5genes_strongILS		11-texon	 	19
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				20		estimated_5genes_strongILS		11-texon	 	2
-0.375				20		estimated_5genes_strongILS		11-texon	 	5
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.375				21		estimated_5genes_strongILS		11-texon	 	12
-0.125				21		estimated_5genes_strongILS		11-texon	 	15
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.375				22		estimated_5genes_strongILS		11-texon	 	7
-0.125				22		estimated_5genes_strongILS		11-texon	 	9
-0.25				22		estimated_5genes_strongILS		11-texon	 	11
-0.0				22		estimated_5genes_strongILS		11-texon	 	17
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				23		estimated_5genes_strongILS		11-texon	 	4
-0.5				23		estimated_5genes_strongILS		11-texon	 	13
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				99		estimated_25genes_strongILS		11-texon	 	10
-0.125				99		estimated_25genes_strongILS		11-texon	 	13
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				138		estimated_25genes_strongILS		11-texon	 	12
-0.125				138		estimated_25genes_strongILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				145		estimated_25genes_strongILS		11-texon	 	5
-0.25				145		estimated_25genes_strongILS		11-texon	 	10
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				58		estimated_15genes_weakILS		11-texon	 	2
-0.125				58		estimated_15genes_weakILS		11-texon	 	13
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				16		estimated_5genes_strongILS		11-texon	 	18
-0.0				16		estimated_5genes_strongILS		11-texon	 	19
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.5				20		estimated_5genes_strongILS		11-texon	 	2
-0.25				20		estimated_5genes_strongILS		11-texon	 	5
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.375				21		estimated_5genes_strongILS		11-texon	 	12
-0.25				21		estimated_5genes_strongILS		11-texon	 	15
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				23		estimated_5genes_strongILS		11-texon	 	4
-0.375				23		estimated_5genes_strongILS		11-texon	 	13
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				8		simulated_5genes_strongILS		11-texon	 	7
-0.0				8		simulated_5genes_strongILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				60		estimated_15genes_strongILS		11-texon	 	4
-0.125				60		estimated_15genes_strongILS		11-texon	 	14
-0.5				60		estimated_15genes_strongILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				67		estimated_15genes_strongILS		11-texon	 	11
-0.25				67		estimated_15genes_strongILS		11-texon	 	17
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				24		estimated_5genes_strongILS		11-texon	 	1
-0.0				24		estimated_5genes_strongILS		11-texon	 	17
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.5				25		estimated_5genes_strongILS		11-texon	 	2
-0.375				25		estimated_5genes_strongILS		11-texon	 	11
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.625				40		estimated_5genes_strongILS		11-texon	 	3
-0.25				40		estimated_5genes_strongILS		11-texon	 	5
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				68		estimated_15genes_strongILS		11-texon	 	3
-0.25				68		estimated_15genes_strongILS		11-texon	 	10
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.147058823529412				469		noscale.25g.500b		37-texon	 	5
-0.117647058823529				469		noscale.25g.500b		37-texon	 	14
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				13		estimated_5genes_weakILS		11-texon	 	12
-0.0				13		estimated_5genes_weakILS		11-texon	 	19
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				145		estimated_25genes_strongILS		11-texon	 	5
-0.25				145		estimated_25genes_strongILS		11-texon	 	10
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				8		simulated_5genes_strongILS		11-texon	 	7
-0.0				8		simulated_5genes_strongILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				58		estimated_15genes_strongILS		11-texon	 	8
-0.0				58		estimated_15genes_strongILS		11-texon	 	16
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				60		estimated_15genes_strongILS		11-texon	 	4
-0.125				60		estimated_15genes_strongILS		11-texon	 	14
-0.375				60		estimated_15genes_strongILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				24		estimated_5genes_strongILS		11-texon	 	1
-0.0				24		estimated_5genes_strongILS		11-texon	 	17
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.5				29		estimated_5genes_strongILS		11-texon	 	13
-0.375				29		estimated_5genes_strongILS		11-texon	 	16
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.5				40		estimated_5genes_strongILS		11-texon	 	3
-0.375				40		estimated_5genes_strongILS		11-texon	 	5
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				9		estimated_5genes_weakILS		11-texon	 	5
-0.0				9		estimated_5genes_weakILS		11-texon	 	9
-0.25				9		estimated_5genes_weakILS		11-texon	 	12
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				16		estimated_5genes_weakILS		11-texon	 	1
-0.0				16		estimated_5genes_weakILS		11-texon	 	8
-0.375				16		estimated_5genes_weakILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				44		estimated_15genes_weakILS		11-texon	 	10
-0.125				44		estimated_15genes_weakILS		11-texon	 	13
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				99		estimated_25genes_strongILS		11-texon	 	10
-0.125				99		estimated_25genes_strongILS		11-texon	 	13
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				9		estimated_5genes_weakILS		11-texon	 	5
-0.0				9		estimated_5genes_weakILS		11-texon	 	9
-0.25				9		estimated_5genes_weakILS		11-texon	 	12
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				16		estimated_5genes_weakILS		11-texon	 	1
-0.0				16		estimated_5genes_weakILS		11-texon	 	8
-0.375				16		estimated_5genes_weakILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				24		estimated_5genes_strongILS		11-texon	 	1
-0.0				24		estimated_5genes_strongILS		11-texon	 	17
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.5				25		estimated_5genes_strongILS		11-texon	 	2
-0.375				25		estimated_5genes_strongILS		11-texon	 	11
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.625				40		estimated_5genes_strongILS		11-texon	 	3
-0.25				40		estimated_5genes_strongILS		11-texon	 	5
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				68		estimated_15genes_strongILS		11-texon	 	3
-0.25				68		estimated_15genes_strongILS		11-texon	 	10
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				68		estimated_15genes_strongILS		11-texon	 	3
-0.25				68		estimated_15genes_strongILS		11-texon	 	10
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				13		estimated_5genes_weakILS		11-texon	 	12
-0.0				13		estimated_5genes_weakILS		11-texon	 	19
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				13		estimated_5genes_weakILS		11-texon	 	12
-0.0				13		estimated_5genes_weakILS		11-texon	 	19
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				8		simulated_5genes_strongILS		11-texon	 	7
-0.0				8		simulated_5genes_strongILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.176470588235294				469		noscale.25g.500b		37-texon	 	5
-0.117647058823529				469		noscale.25g.500b		37-texon	 	14
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				13		estimated_5genes_weakILS		11-texon	 	12
-0.0				13		estimated_5genes_weakILS		11-texon	 	19
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				16		estimated_5genes_strongILS		11-texon	 	18
-0.0				16		estimated_5genes_strongILS		11-texon	 	19
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.5				20		estimated_5genes_strongILS		11-texon	 	2
-0.25				20		estimated_5genes_strongILS		11-texon	 	5
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.375				21		estimated_5genes_strongILS		11-texon	 	12
-0.25				21		estimated_5genes_strongILS		11-texon	 	15
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				23		estimated_5genes_strongILS		11-texon	 	4
-0.375				23		estimated_5genes_strongILS		11-texon	 	13
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.117647058823529				3282		scale2u.200g.500b		37-texon	 	9
-0.147058823529412				3282		scale2u.200g.500b		37-texon	 	13
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				18		simulated_15genes_strongILS		11-texon	 	12
-0.25				18		simulated_15genes_strongILS		11-texon	 	16
-0.125				18		simulated_15genes_strongILS		11-texon	 	17
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				18		simulated_15genes_strongILS		11-texon	 	12
-0.25				18		simulated_15genes_strongILS		11-texon	 	16
-0.125				18		simulated_15genes_strongILS		11-texon	 	17
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0294117647058824				2854		noscale.200g.1500b		37-texon	 	5
-0.0				2854		noscale.200g.1500b		37-texon	 	19
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				18		simulated_15genes_strongILS		11-texon	 	12
-0.25				18		simulated_15genes_strongILS		11-texon	 	16
-0.125				18		simulated_15genes_strongILS		11-texon	 	17
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				58		estimated_15genes_weakILS		11-texon	 	2
-0.125				58		estimated_15genes_weakILS		11-texon	 	13
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				58		estimated_15genes_weakILS		11-texon	 	2
-0.125				58		estimated_15genes_weakILS		11-texon	 	13
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				24		estimated_5genes_strongILS		11-texon	 	1
-0.0				24		estimated_5genes_strongILS		11-texon	 	17
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.5				25		estimated_5genes_strongILS		11-texon	 	2
-0.375				25		estimated_5genes_strongILS		11-texon	 	11
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.625				40		estimated_5genes_strongILS		11-texon	 	3
-0.25				40		estimated_5genes_strongILS		11-texon	 	5
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				58		estimated_15genes_weakILS		11-texon	 	2
-0.125				58		estimated_15genes_weakILS		11-texon	 	13
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				138		estimated_25genes_strongILS		11-texon	 	12
-0.125				138		estimated_25genes_strongILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				145		estimated_25genes_strongILS		11-texon	 	5
-0.25				145		estimated_25genes_strongILS		11-texon	 	10
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				24		estimated_5genes_strongILS		11-texon	 	1
-0.0				24		estimated_5genes_strongILS		11-texon	 	17
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.5				25		estimated_5genes_strongILS		11-texon	 	2
-0.375				25		estimated_5genes_strongILS		11-texon	 	11
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.625				40		estimated_5genes_strongILS		11-texon	 	3
-0.25				40		estimated_5genes_strongILS		11-texon	 	5
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				217		estimated_50genes_strongILS		11-texon	 	18
-0.0				217		estimated_50genes_strongILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				220		estimated_50genes_strongILS		11-texon	 	4
-0.0				220		estimated_50genes_strongILS		11-texon	 	10
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0294117647058824				3137		noscale.200g.1000b		37-texon	 	9
-0.0588235294117647				3137		noscale.200g.1000b		37-texon	 	13
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				13		estimated_5genes_weakILS		11-texon	 	12
-0.0				13		estimated_5genes_weakILS		11-texon	 	19
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				8		simulated_5genes_strongILS		11-texon	 	7
-0.0				8		simulated_5genes_strongILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				8		simulated_5genes_strongILS		11-texon	 	7
-0.0				8		simulated_5genes_strongILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				13		estimated_5genes_weakILS		11-texon	 	12
-0.0				13		estimated_5genes_weakILS		11-texon	 	19
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				145		estimated_25genes_strongILS		11-texon	 	5
-0.25				145		estimated_25genes_strongILS		11-texon	 	10
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				58		estimated_15genes_strongILS		11-texon	 	8
-0.0				58		estimated_15genes_strongILS		11-texon	 	16
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				60		estimated_15genes_strongILS		11-texon	 	4
-0.125				60		estimated_15genes_strongILS		11-texon	 	14
-0.375				60		estimated_15genes_strongILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				138		estimated_25genes_strongILS		11-texon	 	12
-0.125				138		estimated_25genes_strongILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				145		estimated_25genes_strongILS		11-texon	 	5
-0.25				145		estimated_25genes_strongILS		11-texon	 	10
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				9		estimated_5genes_weakILS		11-texon	 	5
-0.0				9		estimated_5genes_weakILS		11-texon	 	9
-0.125				9		estimated_5genes_weakILS		11-texon	 	12
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.25				16		estimated_5genes_weakILS		11-texon	 	1
-0.0				16		estimated_5genes_weakILS		11-texon	 	8
-0.375				16		estimated_5genes_weakILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.117647058823529				3089		noscale.200g.1000b		37-texon	 	4
-0.147058823529412				3089		noscale.200g.1000b		37-texon	 	12
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				8		simulated_5genes_strongILS		11-texon	 	7
-0.0				8		simulated_5genes_strongILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0882352941176471				3137		noscale.200g.1000b		37-texon	 	9
-0.147058823529412				3137		noscale.200g.1000b		37-texon	 	13
-===============================================================================
-
-===============================================================================
-FNRATE_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				68		estimated_15genes_strongILS		11-texon	 	3
-0.25				68		estimated_15genes_strongILS		11-texon	 	10
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0588235294117647				2854		noscale.200g.1500b		37-texon	 	5
-0.0882352941176471				2854		noscale.200g.1500b		37-texon	 	19
-===============================================================================
-
-===============================================================================
-FNRATE_PHYLONET	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0588235294117647				2929		noscale.200g.1500b		37-texon	 	12
-0.117647058823529				2929		noscale.200g.1500b		37-texon	 	15
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				217		estimated_50genes_strongILS		11-texon	 	18
-0.0				217		estimated_50genes_strongILS		11-texon	 	20
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.125				220		estimated_50genes_strongILS		11-texon	 	4
-0.0				220		estimated_50genes_strongILS		11-texon	 	10
-===============================================================================
-
-===============================================================================
-FNRATE_EXACT_ASTRAL	 EL SCORE	 MODEL_CONDITION 			 Texon	 GENE No 
-===============================================================================
-0.0				58		estimated_15genes_weakILS		11-texon	 	2
-0.125				58		estimated_15genes_weakILS		11-texon	 	13
+0.0				58		estimated_15genes_weakILS		11-texon	 	2			EL/estimated_15genes_weakILS_EL_Astral15_FNRATE_EXACT_ASTRAL.xlsx
+0.125				58		estimated_15genes_weakILS		11-texon	 	13			EL/estimated_15genes_weakILS_EL_Astral15_FNRATE_EXACT_ASTRAL.xlsx
 ===============================================================================
 
